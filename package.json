@@ -1,0 +1,19 @@
+{
+  "name": "async-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.coding.net:luojia/asyncGenerator.git"
+  },
+  "keywords": [
+    "async",
+    "generator"
+  ],
+  "author": "luojia@luojia.me",
+  "license": "MIT"
+}
